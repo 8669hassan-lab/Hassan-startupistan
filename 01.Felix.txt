@@ -2,3 +2,4 @@
 2. I need to meet people/someone => project files
 3. I need to get to know the someone => git add
 4. Make the relationship exclusive => git commit -m "We are now exclusive"
+Edited in the browser
